@@ -34,5 +34,6 @@ aplikasi ini dikembangkan dengan konsep __MVC__ ( Model View Controller)
     * login admin
  
 
-
+![home (1)](https://user-images.githubusercontent.com/49296863/121856067-45482100-cd1e-11eb-9067-ac022e7ac3e7.png)
+``
 
